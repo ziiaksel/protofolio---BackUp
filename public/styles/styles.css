@@ -330,6 +330,9 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .mysql {
   width: 10%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .sql {
+  width: 30%;
+}
 .about-stats .progress-bars .progress-bar .progress-con .progress .node-js {
   width: 0%;
 }
@@ -968,4 +971,7 @@ section {
   }
 }
 
-/*# sourceMappingURL=styles.css.map */
+
+.read-more{
+  color: var(--color-grey-1);
+}
